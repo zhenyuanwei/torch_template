@@ -14,7 +14,6 @@ Tobe added from readme
 
 install_requires = [
     'numpy>=1.11.1',
-    'matplotlib>=1.5.2',
     'scipy>=0.18.0',
 ]
 
