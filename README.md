@@ -8,6 +8,3 @@ Installation
 pip install torch_template
 2. From source
 python setup.py install
-Examples
-------------
-Tobe updated
